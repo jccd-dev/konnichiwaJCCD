@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel, React, Node JS, System-Administration, Python, Linux**
 
-- 👨‍💻 All of my projects are available at (jccd.tech)
+- 👨‍💻 All of my projects are available at jccd.tech
 
 - 📫 How to reach me **jccd0724@gmail.com**
 
